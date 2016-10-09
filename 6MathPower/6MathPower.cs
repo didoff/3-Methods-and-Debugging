@@ -6,21 +6,19 @@ namespace _6MathPower
     {
         static void Main(string[] args)
         {
-            int number = int.Parse(Console.ReadLine());
-            int power = int.Parse(Console.ReadLine());
+            double number = double.Parse(Console.ReadLine());
+            double power = double.Parse(Console.ReadLine());
 
             double sqr = GetMathPower(number, power);
             Console.WriteLine(sqr);
         }
 
-        private static double GetMathPower(int n, int p)
+        public static double GetMathPower(double n, double p)
         {
-            //Write it W/ Math.Pow!!!!
-
-            int result = 0;
+            double result = 1;
             for (int i = 1; i <= p; i++)
             {
-                result = n*i;
+                result *= n;
             }
             return result;
         }
