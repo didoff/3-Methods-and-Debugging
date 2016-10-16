@@ -21,7 +21,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7GreaterOfTwo", "7GreaterOf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8MultiplyEvensByOdds", "8MultiplyEvensByOdds\8MultiplyEvensByOdds.csproj", "{5A46F6AD-7003-44C0-816C-A505F72C2216}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidaysBtnTwoDays", "HolidaysBtnTwoDays\HolidaysBtnTwoDays.csproj", "{8F2A5EB7-05D8-4889-AEFC-DF80D129CF85}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9HolidaysBtnTwoDays", "HolidaysBtnTwoDays\9HolidaysBtnTwoDays.csproj", "{8F2A5EB7-05D8-4889-AEFC-DF80D129CF85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10PriceChangeAlert", "10PriceChangeAlert\10PriceChangeAlert.csproj", "{AC110BAB-C445-4E18-B11B-033E45464A62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{8F2A5EB7-05D8-4889-AEFC-DF80D129CF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F2A5EB7-05D8-4889-AEFC-DF80D129CF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F2A5EB7-05D8-4889-AEFC-DF80D129CF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC110BAB-C445-4E18-B11B-033E45464A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC110BAB-C445-4E18-B11B-033E45464A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC110BAB-C445-4E18-B11B-033E45464A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC110BAB-C445-4E18-B11B-033E45464A62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
