@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5A46F6AD-7003-44C0-816C-A505F72C2216}</ProjectGuid>
+    <ProjectGuid>{8F2A5EB7-05D8-4889-AEFC-DF80D129CF85}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_8MultiplyEvensByOdds</RootNamespace>
-    <AssemblyName>8MultiplyEvensByOdds</AssemblyName>
+    <RootNamespace>HolidaysBtnTwoDays</RootNamespace>
+    <AssemblyName>HolidaysBtnTwoDays</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="8MultiplyEvensByOdds.cs" />
+    <Compile Include="HolidaysBtnTwoDays.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

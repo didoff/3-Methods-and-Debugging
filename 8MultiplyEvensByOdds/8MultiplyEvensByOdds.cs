@@ -14,8 +14,7 @@ namespace _8MultiplyEvensByOdds
 
             Console.WriteLine(GetMultiplicationOfEvensAndOdds(number));
         }
-
-
+        
         public static int GetMultiplicationOfEvensAndOdds(int n)
         {
             int evens = GetSumOfEvens(n);
